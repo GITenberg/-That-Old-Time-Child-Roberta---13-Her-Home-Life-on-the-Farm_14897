@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5737'
     url: http://www.gutenberg.org/2009/agents/5737
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14897#-That-Old-Time-Child-Roberta---13-Her-Home-Life-on-the-Farm
 gutenberg_issued: '2005-02-05'
 gutenberg_type: Text
 identifiers:
